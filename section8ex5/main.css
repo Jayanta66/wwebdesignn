@@ -1,0 +1,22 @@
+
+body{
+	background-color: yellow;
+	
+}
+
+
+div {
+	width: 400px;
+	height:200px;
+	background-color: red;
+	border-radius: 50px;
+	border: 20px groove tamato;	
+	background-image: url("klak.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+}
+
+
+
